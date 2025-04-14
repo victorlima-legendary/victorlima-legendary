@@ -4,6 +4,10 @@
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=40&center=true&vCenter=true&width=1000&lines=💻+Dev+Web+e+Apaixonado+por+Tecnologia;👁️+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" />
+</p>
+
 
 <p align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <img 
