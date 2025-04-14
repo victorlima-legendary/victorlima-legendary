@@ -28,7 +28,10 @@ HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Gi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 🏆 Conquistas:
 
-<p align="center"> <img style="display: flex; gap: 20px; line-height: 90px;" src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&margin-w=10&no-frame=true" /> </p> <br />
+<p align="center"> <div align="center" style="transform: scale(1.2); margin-top: 20px; margin-bottom: 40px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&margin-w=20&no-frame=true" />
+</div>
+ </p> <br />
 
 <!-- 🌐 Contato e redes: -->
 
