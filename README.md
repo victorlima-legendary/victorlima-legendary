@@ -18,7 +18,7 @@
 
 💻 Tecnologias que uso:
 
-HTML • CSS • JavaScript • React • Node.js • Vite • Figma • Git • APIs • IA
+HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Git • APIs • IA -->
 
 🚀 Projetos em destaque: 🔮 https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_R-/
 
