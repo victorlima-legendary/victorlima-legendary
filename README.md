@@ -5,7 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=💻+Dev+Web+e+Apaixonado+por+Tecnologia;👁️+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" />
+ <p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&margin-w=30&column=4&no-frame=true"
+    alt="Troféus do GitHub"
+  />
+</p>
+
 </p>
 
 <p align="center"><i>Esse repositório ainda está em <b>desenvolvimento</b> 🛠️</i></p>
