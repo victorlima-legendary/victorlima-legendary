@@ -16,7 +16,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 
-```diff
-+ Desenvolvedor front-end com paixão por interfaces imersivas.
-+ Amante do universo tech, neon, IA e ciberespaço.
-+ Explorando o futuro com código e criatividade.
+💻 Tecnologias que uso:
+
+HTML • CSS • JavaScript • React • Node.js • Vite • Figma • Git • APIs • IA
+
+🚀 Projetos em destaque: 🔮 https://github.com/seuusuario/cyber-landing
+🤖 https://github.com/seuusuario/ia-bot-js
+📻 https://github.com/seuusuario/web-radio
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/> <div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight"/> </div> <br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+🏆 Conquistas:
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=tokyonight&margin-w=10&no-frame=true" /> </p> <br />
+🌐 Contato e redes:
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
+💬 Hacker Quote do dia:
+
+“Os fracos se vingam. Os fortes perdoam. Os inteligentes... compilam.” – Glitch Prophet
+
+<br /> <p align="center"> <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="300" /> </p> </div> 
