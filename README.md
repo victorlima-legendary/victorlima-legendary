@@ -34,4 +34,4 @@ HTML • CSS • JavaScript • React • Node.js • Vite • Figma • Git •
 
 “Os fracos se vingam. Os fortes perdoam. Os inteligentes... compilam.” – Glitch Prophet
 
-<br /> <p align="center"> <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="300" /> </p> </div> 
+<!-- <br /> <p align="center"> <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="300" /> </p> </div> -->
