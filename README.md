@@ -1,4 +1,4 @@
-<h1 style="width: 2px;" align="center">👾 Bem-vindo ao meu universo C Y B E R P U N K 👾</h1>
+<h1 style="border: 2px solid white;" align="center">👾 Bem-vindo ao meu universo C Y B E R P U N K 👾</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" />
