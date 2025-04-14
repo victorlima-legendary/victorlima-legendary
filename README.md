@@ -28,7 +28,7 @@ HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Gi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 🏆 Conquistas:
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=tokyonight&margin-w=10&no-frame=true" /> </p> <br />
+<p align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=tokyonight&margin-w=10&no-frame=true" /> </p> <br />
 
 <!-- 🌐 Contato e redes: -->
 
