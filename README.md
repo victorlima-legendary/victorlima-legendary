@@ -29,8 +29,8 @@ HTML • CSS • JavaScript • React • Node.js • Vite • Figma • Git •
 🏆 Conquistas:
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=tokyonight&margin-w=10&no-frame=true" /> </p> <br />
-🌐 Contato e redes:
 
+<!-- 🌐 Contato e redes: -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 💬 Hacker Quote do dia:
