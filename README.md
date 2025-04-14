@@ -23,8 +23,8 @@ HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Gi
 🚀 Projetos em destaque: 🔮 https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_R-/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/> <div align="center"> <br/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" /> <br/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=tokyonight"/> </div> <br/> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=tokyonight" /> <br/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorlima-legendary&theme=tokyonight"/> </div> <br/> 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 🏆 Conquistas:
 
