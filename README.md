@@ -4,15 +4,15 @@
   <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" />
 </p>
 
-<p align="center">
- <p align="center">
+
+<p align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&margin-w=30&column=4&no-frame=true"
+    src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&no-frame=true&column=4&margin-w=30&margin-h=25"
     alt="Troféus do GitHub"
   />
 </p>
 
-</p>
+
 
 <p align="center"><i>Esse repositório ainda está em <b>desenvolvimento</b> 🛠️</i></p>
 
