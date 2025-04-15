@@ -39,7 +39,7 @@ HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Gi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/> <div align="center"> <br/>
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=tokyonight" /> <br/><br/>
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=victorlima-legendary&theme=tokyonight "/> <br/><br/>
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=victorlima-legendary&theme=tokyonight" >
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=victorlima-legendary&theme=tokyonight" > <br/> <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/></div>
 
  </p> <br />
