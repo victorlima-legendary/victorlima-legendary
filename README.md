@@ -34,7 +34,9 @@
 
 HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Git • APIs • IA -->
 
-🚀 Projetos em destaque: 🔮 https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_R-/
+🚀 Projetos em destaque: 🔮 
+
+https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_RADIO/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/> <div align="center"> <br/>
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=tokyonight" /> <br/><br/>
