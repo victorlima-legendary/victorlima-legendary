@@ -25,8 +25,6 @@
   />
 </p>
 
-
-
 <p align="center"><i>Esse repositório ainda está em <b>desenvolvimento</b> 🛠️</i></p>
 
 <br />
@@ -34,10 +32,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-
-💻 Tecnologias que uso:
-
-HTML • CSS • JavaScript <!-- • React • Node.js • Vite • Figma • Git • APIs • IA -->
 
 🚀 Projetos em destaque: 🔮 
 
@@ -60,9 +54,8 @@ https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_RADIO/
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
 💬 Hacker Quote do dia:
 
 “Os fracos se vingam. Os fortes perdoam. Os inteligentes... compilam.” – Glitch Prophet
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/> -->
 <!-- <br /> <p align="center"> <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="300" /> </p> </div> -->
