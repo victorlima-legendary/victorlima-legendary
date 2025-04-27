@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<code><small>👾 Hi, I'm Vitor Lima 🍋‍🟩 👾</small></code>
+<code>👾 Hi, I'm Vitor Lima 🍋‍🟩 👾</code>
 
 </div>
 
