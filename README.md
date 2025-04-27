@@ -1,5 +1,5 @@
 
-  👾 <code>Hi, I'm Vitor Lima 🍋‍🟩</code> 👾
+  👾 <h2><code>Hi, I'm Vitor Lima 🍋‍🟩</code></h2> 👾
 
 
 
