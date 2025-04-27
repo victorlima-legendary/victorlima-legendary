@@ -2,32 +2,23 @@
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾
 
-<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="600" />
+<img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" />
 
-<br />
+<br/>
 
-<code>👾 Dev Web | Apaixonado por Tecnologia 👾</code>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Desenvolvedor+Web;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
 
 </div>
 
-<br />
+---
+
+## 🏆 Minhas Conquistas
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=💻+Dev+Web+e+Apaixonado+por+Tecnologia;👁️+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
 </div>
-
-<br />
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&no-frame=true&column=4&margin-w=20&margin-h=20"
-    alt="Troféus do GitHub"
-  />
-</div>
-
-<br />
 
 ---
 
@@ -39,42 +30,39 @@
 
 </div>
 
-<br />
+---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-</div>
-
-<br />
-
-## 📊 GitHub Stats
+## 📊 Meu GitHub em Números
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=tokyonight" /> <br/><br/>
-<img width="80%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=tokyonight" /> 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/>
 
-<br />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00f7ff&height=2"/>
-</div>
-
-<br />
-
-## 💬 Hacker Quote do Dia
-
-> “Os fracos se vingam. Os fortes perdoam. Os inteligentes... compilam.” – Glitch Prophet
-
-<br />
-
-<div align="center">
-<img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="300" />
 </div>
 
 ---
 
-<!-- 📫 Contato e Redes Sociais (opcional para adicionar depois) -->
+## 💬 Hacker Quote do Dia
 
+<div align="center">
+
+> “Os fracos se vingam. Os fortes perdoam. Os inteligentes... compilam.” – Glitch Prophet
+
+<br/>
+
+<img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="250" />
+
+</div>
+
+---
+
+<div align="center">
+
+_🚀 Sempre aprendendo e evoluindo no mundo do código!_
+
+</div>
