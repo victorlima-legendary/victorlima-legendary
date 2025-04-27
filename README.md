@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 style="font-size:10px;" align="center">
   👾 <code>Bem-vindo&nbsp;ao&nbsp;meu&nbsp;universo&nbsp;C&nbsp;Y&nbsp;B&nbsp;E&nbsp;R&nbsp;P&nbsp;U&nbsp;N&nbsp;K</code> 👾
 </h2>
 
