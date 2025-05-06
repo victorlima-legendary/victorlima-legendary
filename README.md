@@ -63,6 +63,6 @@
 
 <div align="center">
 
-_🚀 Sempre aprendendo e evoluindo no mundo do código!_
+_🚀 Always learning and evolving in the world of code!_
 
 </div>
