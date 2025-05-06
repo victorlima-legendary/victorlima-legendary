@@ -55,7 +55,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="250" />
+<!-- <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="250" /> -->
 
 </div>
 
