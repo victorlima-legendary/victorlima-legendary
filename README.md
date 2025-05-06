@@ -12,7 +12,7 @@
 
 ---
 
-## 🏆 Minhas Conquistas
+## 🏆 My Achievements:
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 My Featured Projects:
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Meu GitHub em Números
+## 📊 My Achievements in Numbers:
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 💬 Hacker Quote do Dia
+## 💬 Some Phrase:
 
 <div align="center">
 
