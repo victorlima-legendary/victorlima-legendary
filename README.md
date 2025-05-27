@@ -2,11 +2,14 @@
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9E0F0F&background=FFFFFF00&width=435&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
+
+<br/>
 <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a);👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
 
 </div>
 
