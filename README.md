@@ -2,9 +2,8 @@
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9E0F0F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9E0F0F&background=FFFFFF00&width=435&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 
-<br/>
 <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400" />
 
 <br/>
