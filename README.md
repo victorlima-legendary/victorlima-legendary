@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=synthwave&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
