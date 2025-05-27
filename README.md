@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=1A14E1&background=FFFFFF00&center=true&repeat=false&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
+![giphy](https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9)
+
 
 <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp5eGI3NGRyZW84MXRncWZuaXZoYWJtNHcxOTRxY2pwZ2ZvOWo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="400" />
 
