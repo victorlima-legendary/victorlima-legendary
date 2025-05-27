@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=synthwave&no-frame=true&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -37,7 +37,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=highcontrastt&hide_border=true" />
 
 <br/>
 
