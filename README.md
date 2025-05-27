@@ -41,7 +41,7 @@
 
 <br/>
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
