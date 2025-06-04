@@ -33,7 +33,7 @@
 
 <div align="center">
 
-🔮 [Tempo de Avivamento Web Rádio](https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_RADIO_2/)
+🔮 [Tempo de Avivamento Web Rádio](https://victorlima-legendary.github.io/TEMPO_DE_AVIVAMENTO_WEB_2/)
 
 </div>
 
