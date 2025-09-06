@@ -11,12 +11,8 @@
 <div align="right">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" />
-&nbsp;
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" />
-
-<br/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" />
 
 </div>
 </p>
