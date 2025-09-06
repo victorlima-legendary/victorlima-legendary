@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" width="400px" /><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" width="430px" /><br>
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" width="400px" /><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" width="400px" />
     </td>
