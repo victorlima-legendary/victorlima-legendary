@@ -7,12 +7,18 @@
 
 <p align="left" height="20px">
   <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="220px">
-  <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=victorlima-legendary&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<div align="right">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" />
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" />
+
+<br/>
+&nbsp;
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" />
 
 </div>
-
 </p>
 
 
