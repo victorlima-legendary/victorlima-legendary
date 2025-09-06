@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
+
+# 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 
@@ -22,11 +24,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
-
 </div>
-
----
 
 ## 🏆 My Achievements:
 
