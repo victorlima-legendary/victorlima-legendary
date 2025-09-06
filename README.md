@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" width="400px" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="600px" />
+      <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="500px" />
     </td>
   </tr>
 </table>
