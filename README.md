@@ -74,8 +74,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 _🚀 Always learning and evolving in the world of code!_
