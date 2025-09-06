@@ -4,14 +4,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 
-<div>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" width="400px" /><br>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" width="400px" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" width="400px" />
-</p>
-<img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="600px" />
-</div>
+<table>
+  <tr>
+
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" width="400px" /><br>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" width="400px" /><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" width="400px" />
+    </td>
+
+   
+    <td>
+      <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="600px" />
+    </td>
+  </tr>
+</table>
+
 
 <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp5eGI3NGRyZW84MXRncWZuaXZoYWJtNHcxOTRxY2pwZ2ZvOWo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="400" />
 
