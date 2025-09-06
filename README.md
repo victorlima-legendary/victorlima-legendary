@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 
+## 📊 My Achievements in Numbers:
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="400px" />
  </br>
@@ -43,24 +45,6 @@
 🔮 [Tempo de Avivamento Web Rádio](https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2)
 
 </div>
-
----
-
-## 📊 My Achievements in Numbers:
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" />
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" />
-
-<br/>
-&nbsp;
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" />
-
-</div>
-
----
 
 ## 💬 Some Phrase:
 
