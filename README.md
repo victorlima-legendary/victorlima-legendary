@@ -1,13 +1,15 @@
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
+</div>
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="400px" />
+  <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="300px" />
+</div>
  </br>
  </br>
 
@@ -48,7 +50,7 @@
 
 <div align="center">
 
-[Moto G82 5G Devs Organization](https://github.com/Moto-G82-5G-RHODEP-by-SM6375-Devs)
+[MotoCore - Devs Organization](https://github.com/MotoCore-Devs/)
 
 </div>
 
