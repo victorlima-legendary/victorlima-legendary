@@ -1,17 +1,17 @@
 <div align="center">
-  
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
-
+<!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="300px" />
 </div>
  </br>
  </br>
-
+-->
 <p align="left">
   <strong><h2 align="left">📊 My Achievements in Numbers:</h2></strong>
 </p>
@@ -51,6 +51,7 @@
 <a href="https://github.com/MotoCore-Devs/"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </div>
 
+<!--
 ## 💬 Some Phrase:
 
 <div align="center">
@@ -59,8 +60,6 @@
 
 <br/>
 
-<!-- <img src="https://media.giphy.com/media/XA3cXYtGs7d7K/giphy.gif" width="250" /> -->
-
 </div>
 
 <div align="center">
@@ -68,3 +67,4 @@
 _🚀 Always learning and evolving in the world of code!_
 
 </div>
+-->
