@@ -15,11 +15,10 @@
 <p align="left">
   <strong><h2 align="left">📊 My Achievements in Numbers:</h2></strong>
 </p>
-  
+<br>
   <img src="https://github-readme-stats.vercel.app/api?username=victorlima-legendary&show_icons=true&theme=merko&hide_border=true" width="400px" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=victorlima-legendary&theme=radical&hide_border=true" width="400px" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima-legendary&layout=compact&theme=gruvbox&hide_border=true" width="400px" /><br>
-  <br>
 </div>
 
 <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmp5eGI3NGRyZW84MXRncWZuaXZoYWJtNHcxOTRxY2pwZ2ZvOWo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="400" />
