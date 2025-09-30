@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<a href="https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-FFFF00?style=for-the-badge&logo=website&logoColor=yellow" /></a>
+<a href="https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2"><img alt="Website" src="https://img.shields.io/badge/RÁDIO TEMPO DE AVIVAMENTO-FFFF00?style=for-the-badge&logo=site&logoColor=yellow" /></a>
 
 </div>
 
