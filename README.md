@@ -50,7 +50,7 @@
 <div align="center">
 
 <div>
-  <img alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp; [MotoCore - Devs Organization](https://github.com/MotoCore-Devs/)
+  <img alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp; <a href="https://github.com/MotoCore-Devs/">MotoCore - Devs Organization</a>
 
 </div>
 
