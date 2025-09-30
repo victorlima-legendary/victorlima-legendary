@@ -49,7 +49,10 @@
 
 <div align="center">
 
-[MotoCore - Devs Organization](https://github.com/MotoCore-Devs/)
+<div>
+  <img alt="" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> &nbsp; [MotoCore - Devs Organization](https://github.com/MotoCore-Devs/)
+
+</div>
 
 </div>
 
