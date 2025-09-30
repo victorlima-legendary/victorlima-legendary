@@ -48,7 +48,7 @@
 ## 🚀 My Github Organizations:
 
 <div align="center">
-<a href="https://github.com/MotoCore-Devs/"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+<a href="https://github.com/MotoCore-Devs/"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-3DDC84?style=for-the-badge&logo=android&logoColor=black" /></a>
 </div>
 
 <!--
