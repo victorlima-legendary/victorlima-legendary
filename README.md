@@ -41,14 +41,14 @@
 
 <div align="center">
 
-<a href="https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2"><img alt="Website" src="https://img.shields.io/badge/RÁDIO TEMPO DE AVIVAMENTO-FFFF00?style=for-the-badge&logo=github&logoColor=yellow" /></a>
+<a href="https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2"><img alt="Website" src="https://img.shields.io/badge/RÁDIO TEMPO DE AVIVAMENTO-FFFF00?style=for-the-badge&logo=github&logoColor=black" /></a>
 
 </div>
 
 ## 🚀 My Github Organizations:
 
 <div align="center">
-<a href="https://github.com/MotoCore-Devs/"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-3DDC84?style=for-the-badge&logo=android&logoColor=black" /></a>
+<a href="https://github.com/MotoCore-Devs/"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </div>
 
 <!--
