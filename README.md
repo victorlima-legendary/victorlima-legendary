@@ -4,7 +4,7 @@
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1A14E1&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D3AF37&background=FFFFFF00&center=true&random=true&width=700&height=90&lines=Future+Full+Stack+Developer!)](https://git.io/typing-svg)
 <!--
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44393308-12f0-431b-97e1-f072d7ed8fb9" width="300px" />
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-🔮 [Tempo de Avivamento Web Rádio](https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2)
+<a href="https://github.com/victorlima-legendary/TEMPO_DE_AVIVAMENTO_WEB_2"><img alt="Android" src="https://img.shields.io/badge/MotoCore - Devs-FFFF00?style=for-the-badge&logo=website&logoColor=yellow" /></a>
 
 </div>
 
