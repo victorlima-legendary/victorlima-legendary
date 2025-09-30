@@ -1,7 +1,6 @@
 <div align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=30&center=true&vCenter=true&multiline=true&width=800&lines=💻+Bem-Vindo(a)+💻;👾+Ciberpunk+%7C+Futuro+Digital+%7C+Código+na+veia;🚀+Em+constante+evolução...+bora+codar!" alt="Typing SVG" />
-</div>
 
 # 👾 Hi, I'm Vitor Lima 🍋‍🟩 👾 
 
